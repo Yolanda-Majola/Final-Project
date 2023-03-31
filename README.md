@@ -1,1 +1,1 @@
-# Final-Project
+# Final-Project is about a Self Service Fuel Kiosk. The code is still a working progress but i managed to put together the business proposal that has all the information needed to know and understand what my business is about. instead of uploading a code that is not working, which just seems to not work the more i work on it..[Telu Tech Solutions (1).pdf](https://github.com/Yolanda-Majola/Final-Project/files/11122327/Telu.Tech.Solutions.1.pdf)
